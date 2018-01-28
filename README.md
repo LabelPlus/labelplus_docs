@@ -1,8 +1,8 @@
 # LabelPlus 帮助文档
 
-标号器+ 漫画翻译辅助工具. 减少翻译工作交接成本. 导出文本至ps.
+LabelPlus\(标号器+\)是一款免费开源的漫画翻译辅助工具, 目标为翻译者提供工作平台, 并减少翻译工作交接成本.
 
-A Easy tool for comic translation. Reduce communication costs of translator. Export text to Photoshop..
+此外, 使用额外的PS脚本可以将LabelPlus中编辑的翻译文本直接导入到Photoshop工作环境中.
 
 ## 传送门
 
@@ -10,6 +10,7 @@ A Easy tool for comic translation. Reduce communication costs of translator. Exp
 * [Github上的LabelPlus组织](https://github.com/LabelPlus)
 * [Github LabelPlus源码版本库](https://github.com/LabelPlus/LabelPlus)
 * [Github LabelPlus PS脚本源码版本库](https://github.com/LabelPlus/PS-Script)
+* [Web在线协作版本 萌翻](https://moetra.com)
 
-![](/assets/2_before_insert.gif)
+
 
