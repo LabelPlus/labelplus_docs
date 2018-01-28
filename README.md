@@ -6,6 +6,8 @@ LabelPlus\(标号器+\)是一款免费开源的漫画翻译辅助工具, 目标�
 
 应用场景除了漫画翻译, 亦适用于各种需要将图片与文字建立关联, 并需要在Photoshop中进一步加工处理的场景, 例如: 翻译游戏中零碎的图片.
 
+本帮助文档的在线阅读地址: [https://labelplus.gitbooks.io/labelplus\_help/](https://labelplus.gitbooks.io/labelplus_help/)
+
 **传送门**
 
 * [LablPlus项目主页](http://noodlefighter.com/label_plus)
