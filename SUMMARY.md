@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [LabelPlus帮助文档](README.md)
 * [快速上手](kuai-su-ru-men.md)

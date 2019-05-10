@@ -6,10 +6,10 @@
 
 [http://www.microsoft.com/zh-cn/download/details.aspx?id=14037](http://www.microsoft.com/zh-cn/download/details.aspx?id=14037)
 
-## **提示“Read "labelplus\_config.xml" Error!”  **
+## **提示“Read "labelplus\_config.xml" Error!”**  
 
-**      
-**检查配置文件是否存在，确保其书写格式正确（参照labelplus\_config\_example.xml）。
+    
+****检查配置文件是否存在，确保其书写格式正确（参照labelplus\_config\_example.xml）。
 
 ## **想要用PS脚本作其他用途, 希望了解翻译文本的格式**
 
@@ -21,8 +21,6 @@
 | :--- | :--- |
 | 执行过程中提示“错误8000: 无法打开文件” | 确认PS是否能打开该文件，如果无法打开，请确认图片文件名后缀是否与其实际格式相匹配 |
 | 点击“导入”后，莫名其妙地弹出了“打开文件”的窗口 | PS CC 2017开始出现的问题，原因不明，但可以通过以下方式解决：1. 用 "文件-脚本-浏览" 的方式执行脚本；2. 把脚本放到PS安装目录下的"Presets\Scripts"文件夹里，通过“文件-脚本”菜单执行脚本（详见本文档“快速上手”-"嵌字"部分） |
-
-
 
 若问题还没能解决请依次尝试：
 
