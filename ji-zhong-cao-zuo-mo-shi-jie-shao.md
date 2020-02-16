@@ -10,13 +10,13 @@ LabelPlus根据使用场合, 提供了几种操作模式: 使用Ctrl+Q/W/E/R快�
 
 适合频繁添加&删除标签时使用 , 操作标签无需使用Ctrl键.
 
-![](.gitbook/assets/mode_label.gif)
+![](assets/mode_label.gif)
 
 ## 录入模式
 
 适合录入译文时使用 , 切换标签时图片浏览界面会自动跟踪至标签所在位置, 配合键盘快捷键可实现无间断录入.
 
-![](.gitbook/assets/mode_input.gif)
+![](assets/mode_input.gif)
 
 ## 审校模式
 
@@ -26,5 +26,5 @@ LabelPlus根据使用场合, 提供了几种操作模式: 使用Ctrl+Q/W/E/R快�
 * 标签旁显示分组名
 * 图片浏览区中, 鼠标移动到标签上, 将自动选中标签.
 
-![](.gitbook/assets/mode_check.gif)
+![](assets/mode_check.gif)
 

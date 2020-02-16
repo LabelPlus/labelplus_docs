@@ -1,6 +1,6 @@
 # 基本操作
 
-![](.gitbook/assets/operation_1.jpg)
+![](assets/operation_1.jpg)
 
 在**图片浏览区**中的基本操作:
 

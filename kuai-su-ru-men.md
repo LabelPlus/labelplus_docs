@@ -6,7 +6,7 @@
 
 **一. 创建翻译文本, 将图片导入到文本中**
 
-![](.gitbook/assets/1_new_file.gif)
+![](assets/1_new_file.gif)
 
 1. 文件-新建翻译, 打开图片所在文件夹, 文本会创建在同目录下.
 2. 选择需要关联的图片
@@ -14,14 +14,14 @@
 
 **二. 添加标号**
 
-![](.gitbook/assets/2_add_label.gif)
+![](assets/2_add_label.gif)
 
 1. 切换至Label模式\(标号模式\)
 2. 在需要写译文的地方点击鼠标左键即可插入标号
 
 三. 写译文
 
-![](.gitbook/assets/3_write_text.gif)
+![](assets/3_write_text.gif)
 
 1. 在右侧Label列表中选中要修改的标号
 2. 写译文
@@ -30,7 +30,7 @@
 
 功能图示:
 
-![](.gitbook/assets/quick_start_1.png)
+![](assets/quick_start_1.png)
 
 ## 嵌字
 
@@ -46,5 +46,5 @@
 3. 在弹出的窗口中, 打开翻译文本文件.
 4. 单击\`导入\`按钮, 可以看到output目录下生成了新的psd文件.
 
-图示:![](.gitbook/assets/quick_start_3.png)![](.gitbook/assets/qucik_start_4.png)
+图示:![](assets/quick_start_3.png)![](assets/qucik_start_4.png)
 
