@@ -2,13 +2,10 @@
 
 ## **提示缺少.NET Framework**
 
-运行至少需要.NET Framework 3.5 Client Win7以下系统需自行安装
-
-[http://www.microsoft.com/zh-cn/download/details.aspx?id=14037](http://www.microsoft.com/zh-cn/download/details.aspx?id=14037)
+LabelPlus v1.2.4之前版本请安装[.NET Framework 3.5 Client Profile](http://www.microsoft.com/zh-cn/download/details.aspx?id=14037)，之后的版本请安装[.NET Framework 4 Client Profile](https://www.microsoft.com/zh-CN/download/details.aspx?id=24872)
 
 ## **提示“Read "labelplus\_config.xml" Error!”**  
 
-    
 ****检查配置文件是否存在，确保其书写格式正确（参照labelplus\_config\_example.xml）。
 
 ## **想要用PS脚本作其他用途, 希望了解翻译文本的格式**
@@ -38,7 +35,7 @@
 
 目前MacOS无法使用LabelPlus但是可以使用PS导入脚本, 它是跨平台的.
 
-同时, [LabelPlus的Web版](https://moetra.com)也是一个可用的替代.
+同时, [LabelPlus的Web版](https://moeflow.com)也是一个可用的替代.
 
 ## 常见问题列表里没有我遇到的问题/我有更好的idea
 
