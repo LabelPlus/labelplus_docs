@@ -1,15 +1,15 @@
 # 分组功能
 
-![](.gitbook/assets/group.jpg)
+![](assets/group.jpg)
 
 分组功能可以对导入的文本图层分类, 同时执行对应ps动作以设置不同格式.
 
 ## 更改分组名称
 
-![](.gitbook/assets/group_name.png)
+![](assets/group_name.png)
 
-单击G按钮可修改分组名  
-, 可增减分组, 分组数n, 1≤n≤9  
+单击G按钮可修改分组名
+, 可增减分组, 分组数n, 1≤n≤9
 , 每个翻译文本文件都有自己的分组列表.
 
 \(P.S. 关于修改默认分组名的方法, 请移步\`进阶设置\`\)
@@ -18,7 +18,7 @@
 
 在图片浏览界面 使用键盘数字键1-9\(或单击工具栏中分组名称\) 可预设置标签的分组.
 
-![](.gitbook/assets/2_before_insert.gif)
+![](assets/2_before_insert.gif)
 
 ## 修改标签分组
 

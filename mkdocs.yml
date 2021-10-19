@@ -1,0 +1,30 @@
+site_name: LabelPlus Toolkit Docs
+plugins:
+  - search
+
+  # refer: https://github.com/ultrabug/mkdocs-static-i18n
+  - i18n:
+      default_language: zh
+      languages:
+        en: English
+        zh: 中文
+      nav_translations:
+        zh:
+          LabelPlus Manual: LabelPlus 用户手册
+
+extra:
+  search:
+    language: 'zh'
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'Light Green'
+    accent: 'Pink'
+  feature:
+    tabs: false
+  # language: 'zh'
+
+extra_javascript:
+  - 'js/cnzz-statistics.js'
+
